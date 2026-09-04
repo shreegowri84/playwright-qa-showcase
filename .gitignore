@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+screenshots/
+.pytest_cache/
+test-results/
+playwright-report/
+reports/
+allure-results/
+allure-report/
+*.egg-info/
